@@ -1,0 +1,14 @@
+.center-fix {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.main-spinner {
+    font-size: 3em;
+    color: color(primary);
+}
+
+/*# sourceMappingURL=app.123b5d03e8322cdd00bd.css.map*/
