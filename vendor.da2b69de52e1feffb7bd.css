@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url(/assets/glyphicons-halflings-regular.f4769f9bdb7466be65088239c12046d1.eot);
-  src: url(/assets/glyphicons-halflings-regular.f4769f9bdb7466be65088239c12046d1.eot?#iefix) format('embedded-opentype'), url(/assets/glyphicons-halflings-regular.448c34a56d699c29117adc64c43affeb.woff2) format('woff2'), url(/assets/glyphicons-halflings-regular.fa2772327f55d8198301fdb8bcfc8158.woff) format('woff'), url(/assets/glyphicons-halflings-regular.e18bbf611f2a2e43afc071aa2f4e1512.ttf) format('truetype'), url(/assets/glyphicons-halflings-regular.89889688147bd7575d6327160d64e760.svg#glyphicons_halflingsregular) format('svg');
+  src: url(angular-webpack-starter/assets/glyphicons-halflings-regular.f4769f9bdb7466be65088239c12046d1.eot);
+  src: url(angular-webpack-starter/assets/glyphicons-halflings-regular.f4769f9bdb7466be65088239c12046d1.eot?#iefix) format('embedded-opentype'), url(angular-webpack-starter/assets/glyphicons-halflings-regular.448c34a56d699c29117adc64c43affeb.woff2) format('woff2'), url(angular-webpack-starter/assets/glyphicons-halflings-regular.fa2772327f55d8198301fdb8bcfc8158.woff) format('woff'), url(angular-webpack-starter/assets/glyphicons-halflings-regular.e18bbf611f2a2e43afc071aa2f4e1512.ttf) format('truetype'), url(angular-webpack-starter/assets/glyphicons-halflings-regular.89889688147bd7575d6327160d64e760.svg#glyphicons_halflingsregular) format('svg');
 }
 .glyphicon {
   position: relative;
@@ -6763,8 +6763,8 @@ button.close {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(/assets/fontawesome-webfont.25a32416abee198dd821b0b17a198a8f.eot);
-  src: url(/assets/fontawesome-webfont.25a32416abee198dd821b0b17a198a8f.eot?#iefix&v=4.6.3) format('embedded-opentype'), url(/assets/fontawesome-webfont.e6cf7c6ec7c2d6f670ae9d762604cb0b.woff2) format('woff2'), url(/assets/fontawesome-webfont.c8ddf1e5e5bf3682bc7bebf30f394148.woff) format('woff'), url(/assets/fontawesome-webfont.1dc35d25e61d819a9c357074014867ab.ttf) format('truetype'), url(/assets/fontawesome-webfont.d7c639084f684d66a1bc66855d193ed8.svg#fontawesomeregular) format('svg');
+  src: url(angular-webpack-starter/assets/fontawesome-webfont.25a32416abee198dd821b0b17a198a8f.eot);
+  src: url(angular-webpack-starter/assets/fontawesome-webfont.25a32416abee198dd821b0b17a198a8f.eot?#iefix&v=4.6.3) format('embedded-opentype'), url(angular-webpack-starter/assets/fontawesome-webfont.e6cf7c6ec7c2d6f670ae9d762604cb0b.woff2) format('woff2'), url(angular-webpack-starter/assets/fontawesome-webfont.c8ddf1e5e5bf3682bc7bebf30f394148.woff) format('woff'), url(angular-webpack-starter/assets/fontawesome-webfont.1dc35d25e61d819a9c357074014867ab.ttf) format('truetype'), url(angular-webpack-starter/assets/fontawesome-webfont.d7c639084f684d66a1bc66855d193ed8.svg#fontawesomeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -8955,4 +8955,4 @@ button.close {
   clip: auto;
 }
 
-/*# sourceMappingURL=vendor.539c4f6a5df9da694fd2.css.map*/
+/*# sourceMappingURL=vendor.da2b69de52e1feffb7bd.css.map*/
